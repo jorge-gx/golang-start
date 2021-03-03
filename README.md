@@ -1,2 +1,2 @@
 # golang-start
-starting to play with golang
+starting to play with Go!
